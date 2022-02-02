@@ -11,6 +11,11 @@ const urlFilters = [
 	"*://*.zedo.com/*",
 	"*://*.kaprila.com/*",
 	"*://*.yektanet.com/*",
+	"*://*.farakav.com/*",
+	"*://*.mediaad.org/*",
+	"*://*.sanjagh.pro/*",
+	"*://*.tapsell.ir/*",
+	"*://*.raykaad.com/*",
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
