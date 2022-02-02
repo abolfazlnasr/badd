@@ -1,0 +1,15 @@
+{
+    "name": "BADD",
+    "version": "1.0.0",
+    "description": "security course project",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/crab_16x16.png",
+        "48": "icons/crab_32x32.png",
+        "128": "icons/crab_128x128.png"
+    },
+    "manifest_version": 2
+}
