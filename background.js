@@ -11,7 +11,7 @@ const urlFilters = [
 	"*://*.zedo.com/*",
 	"*://*.kaprila.com/*",
 	"*://*.yektanet.com/*",
-	"*://*.farakav.com/*",
+	"*://ads.farakav.com/*",
 	"*://*.mediaad.org/*",
 	"*://*.sanjagh.pro/*",
 	"*://*.tapsell.ir/*",
